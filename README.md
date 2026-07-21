@@ -403,3 +403,15 @@ pip install -r requirements.txt
 - `air_clean_pure_controller.py`는 이전 프로젝트에서 사용한 A* + Pure Pursuit 주행 모듈을 PACK 프로젝트에 맞게 확장한 파일입니다.
 - 각 로봇은 동일 네트워크 및 MQTT Broker 환경에서 실행해야 합니다.
 - 카메라 캘리브레이션과 ArUco 마커 좌표는 실험 환경에 맞게 설정해야 합니다.
+
+---
+
+<h2>시연 영상</h2>
+
+<p align="center">
+  <a href="https://youtu.be/bIvEF2X9YFs">
+    <img src="https://img.youtube.com/vi/bIvEF2X9YFs/maxresdefault.jpg"
+         width="80%"
+         alt="PACK 프로젝트 시연 영상">
+  </a>
+</p>
