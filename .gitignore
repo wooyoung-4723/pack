@@ -1,0 +1,32 @@
+﻿# ROS2 colcon 빌드 결과물
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 개발 중 백업 파일
+*backup*
+*.bak
+*.bak_*
+
+# OS 및 에디터
+.DS_Store
+Thumbs.db
+*~
+.vscode/
+.idea/
+
+# 환경 설정 및 로그
+.env
+.env.*
+*.log
+
+# ROS bag
+*.bag
+*.db3
+rosbag2_*/
