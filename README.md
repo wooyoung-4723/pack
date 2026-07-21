@@ -144,7 +144,7 @@ MISSION_COMPLETE
 ### 1. ArUco + solvePnP 기반 위치 추정
 
 <p align="center">
-  <img src="images/solvepnp-localization.png" width="100%" alt="solvePnP 위치 추정">
+  <img src="images/follow-localization.png" width="100%" alt="ArUco 및 엔코더 기반 위치 추정">
 </p>
 
 - 카메라 영상 속 ArUco Marker의 2D 코너와 실제 3D 좌표를 대응시켜 로봇의 위치와 자세를 추정
